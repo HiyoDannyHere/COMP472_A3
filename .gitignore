@@ -3,6 +3,7 @@
 
 #Assignment files
 *.pdf
+LSTM Classifier/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
