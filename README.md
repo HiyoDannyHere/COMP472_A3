@@ -19,8 +19,8 @@ Repository: https://github.com/HiyoDannyHere/COMP472_A3.git
     </li>
 </ul>
 
-**Running**: Just run main file and everything should work (inchallah)!
-
+**Running**: Just run main file and everything should work! <br/>
+**Data**: output files are in "./output". LSTM files were made offline but other are generated each time.
 
 
 
